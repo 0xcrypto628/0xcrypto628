@@ -1,6 +1,3 @@
-<div align="center" width='100%'>
-  <h1><a align='center' width='100%' href="https://crypto-ninja-site.vercel.app/">Please Click Here!</a></h1>
-</div>
 
 <table align="center">
   <tr>
